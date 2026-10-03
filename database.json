@@ -1,0 +1,148 @@
+{
+  "zolaria": {
+    "title": "Zolaria",
+    "desc": "Explore Zolaria, the online home for a roleplay community connected to its Discord server.",
+    "url": "https://www.zolarian.online",
+    "aliases": [""]
+  },
+
+  "CSB": {
+    "title": "CSB",
+    "desc": "A custom standby web project hosted on GitHub Pages.",
+    "url": "https://kutuzovdaniel579-jpg.github.io/CSB/",
+    "aliases": [""]
+  },
+
+  "youtube": {
+    "title": "YouTube",
+    "desc": "Watch videos, music, tutorials, and more.",
+    "url": "https://www.youtube.com",
+    "aliases": ["yt", "video", "videos"]
+  },
+  "tiktok": {
+    "title": "TikTok",
+    "desc": "Watch and share short-form videos.",
+    "url": "https://www.tiktok.com",
+    "aliases": ["video", "videos"]
+  },
+  "google": {
+    "title": "Google",
+    "desc": "Search the web, find answers, and explore the world online.",
+    "url": "https://www.google.com",
+    "aliases": ["search", "web"]
+  },
+  "wikipedia": {
+    "title": "Wikipedia",
+    "desc": "Explore the free online encyclopedia.",
+    "url": "https://www.wikipedia.org",
+    "aliases": ["encyclopedia", "knowledge", "articles"]
+  },
+  "reddit": {
+    "title": "Reddit",
+    "desc": "Join communities and discuss the topics you care about.",
+    "url": "https://www.reddit.com",
+    "aliases": ["forum", "discussion", "communities"]
+  },
+  "instagram": {
+    "title": "Instagram",
+    "desc": "Share photos and videos and connect with friends.",
+    "url": "https://www.instagram.com",
+    "aliases": ["social", "photos", "videos"]
+  },
+  "facebook": {
+    "title": "Facebook",
+    "desc": "Connect with friends, family, and communities.",
+    "url": "https://www.facebook.com",
+    "aliases": ["social", "friends"]
+  },
+  "github": {
+    "title": "GitHub",
+    "desc": "Discover, build, and collaborate on software projects.",
+    "url": "https://github.com",
+    "aliases": ["code", "coding", "development", "programming"]
+  },
+  "amazon": {
+    "title": "Amazon",
+    "desc": "Shop for products across a wide range of categories.",
+    "url": "https://www.amazon.com",
+    "aliases": ["shopping", "store", "shop"]
+  },
+  "spotify": {
+    "title": "Spotify",
+    "desc": "Listen to music, podcasts, and audiobooks.",
+    "url": "https://www.spotify.com",
+    "aliases": ["music", "podcasts", "audio"]
+  },
+  "netflix": {
+    "title": "Netflix",
+    "desc": "Watch movies, series, and documentaries online.",
+    "url": "https://www.netflix.com",
+    "aliases": ["movies", "shows", "streaming", "series"]
+  },
+  "twitch": {
+    "title": "Twitch",
+    "desc": "Watch live streams and connect with gaming communities.",
+    "url": "https://www.twitch.tv",
+    "aliases": ["streaming", "games", "gaming", "live"]
+  },
+  "roblox": {
+    "title": "Roblox",
+    "desc": "Play, create, and share experiences in an online gaming community.",
+    "url": "https://www.roblox.com",
+    "aliases": ["games", "gaming", "create", "play"]
+  },
+  "logitech": {
+    "title": "Logitech",
+    "desc": "Explore computer accessories, mice, keyboards, webcams, and more.",
+    "url": "https://www.logitech.com",
+    "aliases": ["technology", "hardware", "computer", "accessories"]
+  },
+  "discord": {
+    "title": "Discord",
+    "desc": "Chat, voice call, and build communities with friends.",
+    "url": "https://discord.com",
+    "aliases": ["chat", "messaging", "community", "gaming"]
+  },
+  "x": {
+    "title": "X",
+    "desc": "Follow conversations and share what's happening.",
+    "url": "https://x.com",
+    "aliases": ["twitter", "social", "news"]
+  },
+  "pinterest": {
+    "title": "Pinterest",
+    "desc": "Discover and save ideas, inspiration, and projects.",
+    "url": "https://www.pinterest.com",
+    "aliases": ["social", "photos", "ideas", "inspiration"]
+  },
+  "ebay": {
+    "title": "eBay",
+    "desc": "Shop for new and used products or sell items online.",
+    "url": "https://www.ebay.com",
+    "aliases": ["shopping", "store", "marketplace", "auction"]
+  },
+  "steam": {
+    "title": "Steam",
+    "desc": "Buy, play, and discuss PC games.",
+    "url": "https://store.steampowered.com",
+    "aliases": ["games", "gaming", "pc", "store"]
+  },
+  "apple": {
+    "title": "Apple",
+    "desc": "Explore Apple products, services, and support.",
+    "url": "https://www.apple.com",
+    "aliases": ["technology", "hardware", "iphone", "mac"]
+  },
+  "microsoft": {
+    "title": "Microsoft",
+    "desc": "Explore Microsoft software, devices, and services.",
+    "url": "https://www.microsoft.com",
+    "aliases": ["technology", "software", "windows", "hardware"]
+  },
+  "canva": {
+    "title": "Canva",
+    "desc": "Create designs, presentations, and visual content online.",
+    "url": "https://www.canva.com",
+    "aliases": ["design", "creative", "graphics", "presentations"]
+  }
+}

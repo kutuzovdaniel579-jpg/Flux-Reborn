@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#141626">
+  <meta name="description" content="Customize your Flux search and appearance preferences.">
+  <title>Flux — Settings</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../styles.css">
+  <script src="../../preferences.js" defer></script>
+</head>
+<body data-theme="dark">
+  <header class="topbar">
+    <a class="about-link" href="../../index.html">Home</a>
+    <a class="about-link" href="../sites/index.html">Supported sites</a>
+    <a class="about-link" href="index.html" aria-current="page">Settings</a>
+  </header>
+
+  <main class="settings-page">
+    <img class="flux-logo" src="https://i.postimg.cc/mkrck9s3/flux.png" alt="Flux">
+    <h1 class="results-heading">Settings</h1>
+    <p class="settings-intro">Make Flux work the way you like.</p>
+
+    <section class="settings-card">
+      <h2>Search</h2>
+      <label for="preferred-engine">Default search engine</label>
+      <select class="settings-control" id="preferred-engine">
+        <option value="flux">Flux</option>
+        <option value="google">Google</option>
+        <option value="duckduckgo">DuckDuckGo</option>
+      </select>
+      <p class="settings-help">Choose where searches go when you submit from the home page.</p>
+    </section>
+
+    <section class="settings-card">
+      <h2>Appearance</h2>
+      <label for="preferred-theme">Theme</label>
+      <select class="settings-control" id="preferred-theme">
+        <option value="dark">Dark</option>
+        <option value="light">Light</option>
+        <option value="custom">Custom background</option>
+      </select>
+
+      <div class="custom-background-options" id="custom-background-options" hidden>
+        <fieldset class="gradient-fields">
+          <legend>Custom gradient colors</legend>
+          <label for="gradient-start">Gradient start</label>
+          <input class="color-control" id="gradient-start" type="color" value="#5957df">
+          <label for="gradient-end">Gradient end</label>
+          <input class="color-control" id="gradient-end" type="color" value="#141626">
+        </fieldset>
+        <label for="background-image">Background image URL (optional)</label>
+        <input class="settings-control" id="background-image" type="url" placeholder="https://example.com/image.jpg">
+        <p class="settings-help">Use an HTTPS image URL. If provided, it appears over a dark overlay.</p>
+      </div>
+    </section>
+
+    <section class="settings-card">
+      <h2>Accessibility</h2>
+      <label class="setting-check" for="reduce-motion">
+        <input id="reduce-motion" type="checkbox">
+        Reduce motion and transitions
+      </label>
+      <p class="settings-help">Limits animations and transitions across Flux.</p>
+    </section>
+
+    <div class="settings-actions">
+      <button class="secondary-button" id="reset-settings" type="button">Reset settings</button>
+      <p class="settings-status" id="settings-status" role="status" aria-live="polite"></p>
+    </div>
+  </main>
+
+  <footer>
+    <span>© <span id="year"></span> Flux</span>
+    <span class="footer-note">Search starts here.</span>
+  </footer>
+</body>
+</html>
