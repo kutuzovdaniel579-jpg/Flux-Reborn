@@ -47,7 +47,7 @@ if (year) {
   year.textContent = new Date().getFullYear();
 }
 
-fetch("../../database.json")
+fetch("../database.json")
   .then((response) => {
     if (!response.ok) {
       throw new Error("Could not load the site directory.");
