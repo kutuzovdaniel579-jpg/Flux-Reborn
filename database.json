@@ -1,0 +1,28 @@
+{
+  "zolaria": {
+    "title": "Zolaria",
+    "desc": "Explore Zolaria, the online home for a roleplay community connected to its Discord server.",
+    "url": "https://www.zolarian.online",
+    "aliases": [""]
+  },
+
+  "CSB": {
+    "title": "CSB",
+    "desc": "A custom standby web project hosted on GitHub Pages.",
+    "url": "https://kutuzovdaniel579-jpg.github.io/CSB/",
+    "aliases": [""]
+  },
+
+  "youtube": {
+    "title": "YouTube",
+    "desc": "Watch videos, music, tutorials, and more.",
+    "url": "https://www.youtube.com",
+    "aliases": ["yt", "video", "videos"]
+  },
+  "tiktok": {
+    "title": "TikTok",
+    "desc": "Watch and share short-form videos.",
+    "url": "https://www.tiktok.com",
+    "aliases": ["video", "videos"]
+  }
+}
