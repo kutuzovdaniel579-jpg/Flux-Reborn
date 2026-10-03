@@ -1,0 +1,18 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   database.json
+#	modified:   index.html
+#	new file:   preferences.js
+#	modified:   script.js
+#	modified:   search/index.html
+#	new file:   settings/index.html
+#	new file:   sites.js
+#	new file:   sites/index.html
+#	modified:   styles.css
+#
